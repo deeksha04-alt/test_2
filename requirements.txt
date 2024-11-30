@@ -9,4 +9,3 @@ safetensors==0.4.5
 sentence-transformers==3.3.0
 tokenizers==0.20.3
 transformers==4.46.2
-werkzeug==2.2.2
