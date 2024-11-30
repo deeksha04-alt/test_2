@@ -1,8 +1,5 @@
-chromadb==0.5.18
 Flask==2.2.3
 Flask-Cors==5.0.0
-Flask-SQLAlchemy==3.0.3
-gunicorn==23.0.0
 huggingface-hub==0.26.2
 langchain==0.3.7
 langchain-community==0.3.7
@@ -11,8 +8,5 @@ langchain-text-splitters==0.3.2
 safetensors==0.4.5
 sentence-transformers==3.3.0
 tokenizers==0.20.3
-torch==2.0.0
-torchaudio==2.0.1
-torchvision==0.15.1
 transformers==4.46.2
 werkzeug==2.2.2
