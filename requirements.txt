@@ -6,6 +6,5 @@ langchain-community==0.3.7
 langchain-core==0.3.19
 langchain-text-splitters==0.3.2
 safetensors==0.4.5
-sentence-transformers==3.3.0
 tokenizers==0.20.3
 transformers==4.46.2
